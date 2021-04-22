@@ -1,0 +1,151 @@
+"no","nama","nilai_uas"
+1, "Abdul Azis", 80
+2, "AFDAL SAHKUR FATULLOH", 78
+3, "Ahmad Khamdani", 65
+4, "AHMAT ARIL", 80
+5, "Andini Aisyah Utomo",84
+6, "Aprillia Tri Wulandari",84
+7, "ARDENIS REZY FERDIANTO",80
+8, "ARIH NAFIKOH",90
+9, "ARIL SAPUTRA",80
+10, "Dewi Arum Aprellianti",74
+11, "Dika Rizki Hermanto",65
+12, "ELSON JULIAN SHAPUTRA",78
+13, "FARIDHOTUL RETNASARI",85
+14, "Farinsa Sasna Salsabila",78
+15, "FERRY SETIA",60
+16, "Hanan Feri Sasongko",78
+17, "IRMA NOVIANA",78
+18, "Irpan Febriamsyah",80
+19, "Khoirunnisa Umammi",83
+20, "Kurniawan Ardiansyah",80
+21, "LISA AYU PIRDASARI",92
+22, "Muhamad Indra Irawan",67
+23, "Muhamad Rois Wahyudi",70
+24, "Muhammad Aris Wicaksono",74
+25, "Muhammad Hakam",80
+26, "MUHAMMAD SUJA'I",70
+27, "Nanda Putri Kirani",83
+28, "Reynaldy Fajar Ahmad Dony",80
+29, "RIKO SETIAWAN",80
+30, "Robitotul Khusni Efendi",79
+31, "Septi Irmawati",86
+32, "YOSIVA CITRA OLIVIA",85
+33, "ADHIT PRASTYA MURDIANWAR",64
+34, "Adib Fuad Khoiron",80
+35, "Afita Rosaliya",83
+36, "Ainun Najib",78
+37, "Alfa Kamal",82
+38, "ALFY HALIL",81
+39, "ALVIYANI FARIDA",85
+40, "Ariefaldo Dadika Pratama",80
+41, "BAGAS RONALDI",80
+42, "BAGUS RONALDO",80
+43, "DIAH PUTRI LUTVIANA",82
+44, "Dias Prihatna Sekar Kedasih",85
+45, "EKO PRAYITNO",73
+46, "Erisa Nuraini",81
+47, "FATKAM MURSIDIN",69
+48, "HAIKAL MAHMUD",80
+49, "HARJU PUTRI RETNO ANJANI",84
+50, "Indra Ramadani",80
+51, "INTAN RAMADHANI",85
+52, "LISNA FEBIANTI",84
+53, "Luqman Nul Hakim",80
+54, "MATAFA",75
+55, "Mohammad Hasanudin",80
+56, "MUHAMMAD BAGUS RIYANDI",75
+57, "PRAYOGI PANGESTU",80
+58, "Reny Demia",82
+59, "RIAN AJI SAPUTRA",80
+60, "Rizki Syafarudin",80
+61, "SETYO TUNGGAL SATRIO UTOMO",78
+62, "Syifa Shohwatul Islam",80
+63, "Yulia Riswanti",84
+64, "YUNITA MASFIROH",84
+65, "Andika",81
+66, "APRILIA NURUL KHOLIFAH",82
+67, "CHESHIA HESVI FRANSISKA",84
+68, "DIMAS DWI PRASETYO",90
+69, "Farel Abdul Wahid",83
+70, "Galang Adimas Febriansyah",80
+71, "KIRANA CINTA AYU MENTARI",78
+72, "MEILA MELATI",78
+73, "MOCH. RAFI IVAN NOER ZACHARY",80
+74, "Muhammad Nur Rizal",83
+75, "MUHAMMAD SAIFUDIN",80
+76, "NAJUWA HESTIAN JAFARANI",82
+77, "Nandang Wahyu Pamenang",82
+78, "NELI NURMAIDATUL KHUSNA",84
+79, "Septian Eky Dwi Cahyo",80
+80, "SILVANI TRI YUDISTIRA",78
+81, "VIA AMALIA",90
+82, "Zalikha Nadawiya Saffa",84
+83, "ADI BRIYAN",83
+84, "ADITYA GAGAH PRATAMA",86
+85, "AL-MAS'UD ISMAIL JATIMALENGIS",84
+86, "Alhafis Khainunnisa",83
+87, "ANDIKA GATAN PUTRA SUDIRMAN",86
+88, "Angga Pamungkas",83
+89, "ANGGA PRATAMA",86
+90, "ANGGI SAPUTRA",70
+91, "Aprilia Putri Candra Rahmawati",71
+92, "Ayu Fatimah",86
+93, "Dwi Ngabirus Sabila",84
+94, "ELSA NURYAWATI",95
+95, "ELYN CINDY FATIKASARI AGUSTINA",91
+96, "ELYSA EKA ERIYANTI",82
+97, "FARA AFIKA ENDRIANTI",93
+98, "Fatkhul Rahmawati",90
+99, "Fina Dwi Tania",86
+100, "Kharisma Ananda Putri",82
+101, "Libasa Nikmatul Kasanah",90
+102, "Mei Puji Prihatini",76
+103, "MOHAMAD RIZKI ALFANDINATA",81
+104, "Muhammad Imam Sigit",87
+105, "NUR CHOLIK MASRURI",87
+106, "RENDY PRAYOGO",95
+107, "RIAN MUFIDUL AZIS",84
+108, "RIDWAN ARISTIANTO PRAYOGA",87
+109, "Riky Kurniawan",91
+110, "RUDY AGUSTIAN",84
+111, "SEFYA FAJAR RAMADHANI",85
+112, "Willy Bildan Febrianto",84
+113, "Yoga Tri Mukti",84
+114, "Yunita Diah Ayu Lestari",86
+115, "ADE RIZKI MAULANA PUTRA",76
+116, "ADI RUSMAWAN",79
+117, "ADITYA CAHYO SEKTIAWAN",84
+118, "Ahmad Ardiansyah",84
+119, "AHMAD SOFIANTO",65
+120, "ALYA PERMATA VIDIA",85
+121, "Awik Erviana Zakiyah",89
+122, "AYU SAFITRI", 86
+123, "Devita Agnes Pratama",87
+124, "DHEA SEFIA MAHARANI",84
+125, "DIAN ANGGRAINI SAFITRI",84
+126, "DIMAS RERA ARDIANSAH",83
+127, "Dio Desviyan Pratama",84
+128, "ERNAWATI",84
+129, "Hani Sania Putwi",84
+130, "HELEN PUJI IS MAIZUNI",85
+131, "HEPPY RIZKI YUNITASARI",88
+132, "Indri Indianti",80
+133, "IRFAN FITRIANTO",82
+134, "Jeni Wulandari",89
+135, "KHABIB KHAFIDH",86
+136, "Nurvadillah",85
+137, "RAFLI IRFAN JUNFANANI",76
+138, "RIDHO SYAIFULLAH",86
+139, "Rino Dwi Ananda",84
+140, "Rohmani Nabila Listiani",95
+141, "SAHRUL ABDUL AZIS",86
+142, "TEGAR ADI RISTIANTO",94
+143, "Vika Ayu Siti Ulinnuha",87
+144, "ZHANUAR BAGUS ARI ADI",82
+145, "NEVI AYU ANGGRAINI",80
+146, ";Rahmat Aziz Nawawi",75
+147, "RAMADAN DWI SAPUTRA",79
+148, "Randy Kusuma Wibowo",90
+149, "REHAN ADITYA SAPUTRA",69
+150, "Riska Ariyanti",80
